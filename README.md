@@ -1,3 +1,5 @@
+Python Download: https://www.python.org/downloads/
+
 Requirement:
 Install Python First / Install Python Terlebih Dahulu
 - pip install requests
@@ -13,3 +15,5 @@ Tutorial:
 if you need any help contact me:
 - Discord: eldersyx
 - Facebook: https://www.facebook.com/walterino.cc
+- 
+![image](https://github.com/WalterinoZ/ValofeChecker/assets/90072886/685e958a-37cd-46b0-b298-2eec473832d5)
