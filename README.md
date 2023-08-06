@@ -16,5 +16,7 @@ if you need any help contact me:
 - Discord: eldersyx
 - Facebook: https://www.facebook.com/walterino.cc
 
+NOTE: JANGAN LUPA KASIH STAR NYA KAKA KALO WORK <3
+
 
 ![image](https://github.com/WalterinoZ/ValofeChecker/assets/90072886/685e958a-37cd-46b0-b298-2eec473832d5)
