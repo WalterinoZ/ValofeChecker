@@ -15,7 +15,7 @@ Tutorial:
 if you need any help contact me:
 - Discord: eldersyx
 - Facebook: https://www.facebook.com/walterino.cc
-- Instagram: https://www.instagram.com/@bimorzkyyy
+- Instagram: https://www.instagram.com/bimorzkyyy
 
 NOTE: JANGAN LUPA KASIH STAR NYA KAKA KALO WORK <3
 
